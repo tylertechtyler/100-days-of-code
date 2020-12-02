@@ -10,9 +10,9 @@
 ### Day 2: December 1, 2020
 
 
-**Today's Progress**: 
+**Today's Progress**: I worked on my web development applications course for school. This required just reading about javascript and reviewing some examples of code. After studying about the drag and drop html api, I made a simple game to drag cats across a river that was made to appear flowing via css animations and drop them in a box. It is not done. I want a message to appear after dropping the kittens that says something like, Good job! you saved all the Kitties!!
 
-**Thoughts:** 
+**Thoughts:** Today was good practice with CSS and DOM manipulation and my first time working with the drag and drop api as well as using keyframes and animations. I looked my questions up on google and stackoverflow when I got stuck and followed a tutorial to make the css animations.
 
 
 

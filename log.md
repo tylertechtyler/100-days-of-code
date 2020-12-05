@@ -15,4 +15,8 @@
 **Thoughts:** Today was good practice with CSS and DOM manipulation and my first time working with the drag and drop api as well as using keyframes and animations. I looked my questions up on google and stackoverflow when I got stuck and followed a tutorial to make the css animations.
 
 
+### Day 3: December 2,3,4, 2020
+
+
+**Today's Progress**: I spent the past 3 evenings on studying bootstrap and building a front end design for my computer repair shop app. This gives me a GREAT idea of everything I will need to do to finish putting it together. I am only going to count it as one day because I only spent maybe an hour each day on this.
 

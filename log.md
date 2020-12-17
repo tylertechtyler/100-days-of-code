@@ -20,3 +20,8 @@
 
 **Today's Progress**: I spent the past 3 evenings on studying bootstrap and building a front end design for my computer repair shop app. This gives me a GREAT idea of everything I will need to do to finish putting it together. I am only going to count it as one day because I only spent maybe an hour each day on this.
 
+### Day 4: December 14, 15, 16 2020
+
+
+**Today's Progress**: these days I spent studying my C++ course material. I will count it as one day since it did not feel like as much, and there was a break in between these days and the most recent days I coded. Am I doing this challenge right? anyway:
+I learned string modify operations, character operations, and conditional expressions and worked on some simple problems involving those to practice the concepts.
